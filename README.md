@@ -31,3 +31,11 @@
   zlib: '1.3.0.1-motley-71660e1'
 }
 #  Python 3.12.6 
+blinker==1.8.2
+click==8.1.7
+colorama==0.4.6
+Flask==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+Werkzeug==3.0.6
